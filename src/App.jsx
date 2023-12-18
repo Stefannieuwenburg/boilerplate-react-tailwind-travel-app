@@ -11,17 +11,11 @@ const App = () => {
   return (
     <div>
       <Navbar />
-
       <Home />
-
       <Features />
-
       <Destination />
-
       <About />
-
       <Contact />
-
       <Footer />
     </div>
   );
